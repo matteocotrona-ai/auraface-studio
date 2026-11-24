@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matteocotrona-ai.github.io/auraface-studio/sitemap.xml
